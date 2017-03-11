@@ -1,0 +1,11 @@
+This is the test input file.
+It should be able to contain any number of lines of text, with up to 1000 characters on each line.
+If all goes as planned, it will be encrypted without modifying the formatting too much.
+
+Tests:
+`0123456789-=
+~!@#$%^&*()_+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+[]\;',./
+{}|:"<>?
